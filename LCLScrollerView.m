@@ -170,7 +170,7 @@
 {
    
     currentPageIndex++;
-    [UIView animateWithDuration:1.0 animations:^{
+    [UIView animateWithDuration:0.1 animations:^{
         [limitView setHidden:NO];
         [limitView setAlpha:1.0];
     } completion:^(BOOL finished) {
