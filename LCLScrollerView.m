@@ -11,6 +11,7 @@
 //  2015-07-16 15:43:30 修复动画白边
 //  2015-09-02 23:42:12 修复内存ARC
 //  2016-03-20 23:44:01 修复SWD的https支持
+//  2017-02-08 16:17:39 修复点击限制过久问题
 #import "LCLScrollerView.h"
 #import "UIImageView+WebCache.h"
 @implementation LCLScrollerView
